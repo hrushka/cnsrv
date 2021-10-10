@@ -1,2 +1,2 @@
 # cnsrv
-Convervator's Log – Dedicated to preserving knowledge of preserving retro tech
+Convervator's Log – Dedicated to preserving knowledge of aging technology
